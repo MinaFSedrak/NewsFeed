@@ -1,0 +1,25 @@
+{
+  "common": {
+    "ok": "OK! 🇯🇵",
+    "cancel": "Cancel 🇯🇵",
+    "back": "Back 🇯🇵"
+  },
+  "news": {
+    "title": "News 🇯🇵",
+    "noData": "NO DATA FOUND! 🇯🇵",
+    "search": "Search 🇯🇵",
+    "deepLinkingText": "🇯🇵 WoHooooo Deep Linking Value => "
+  },
+  "newsDetails": {
+    "title": "Details 🇯🇵",
+    "by": "By:🇯🇵 ",
+    "source": "Source:🇯🇵 ",
+    "date": "Date:🇯🇵 "
+  },
+  "settings": {
+    "title": "Settings 🇯🇵"
+  },
+  "changeLanguage": {
+    "title": "Change Language 🇯🇵"
+  }
+}
